@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "summary": "Lazy sequence and transducer library",
+    "repository": "https://github.com/jonathanhefner/elm-seq.git",
+    "license": "BSD3",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "Seq"
+    ],
+    "native-modules": true,
+    "dependencies": {
+        "elm-lang/core": "1.1.0 <= v < 2.0.0"
+    }
+}
